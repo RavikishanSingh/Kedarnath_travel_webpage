@@ -2,6 +2,7 @@
 # Kedarnath Travel Guide
 
 This project is a webpage that provides information about the Kedarnath region, a popular pilgrimage destination in Uttarakhand, India. The webpage includes sections on various destinations near Kedarnath, services available to travelers, a gallery of images, testimonials, blogs, and more.
+##LIVE DEMO- https://ravikishansingh.github.io/Kedarnath_travel_webpage/
 
 ![pic](https://github.com/user-attachments/assets/5664f57c-1599-43dd-997d-d7185e6ae8c9)
 
