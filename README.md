@@ -1,12 +1,14 @@
+
 # Kedarnath Travel Guide
 
 This project is a webpage that provides information about the Kedarnath region, a popular pilgrimage destination in Uttarakhand, India. The webpage includes sections on various destinations near Kedarnath, services available to travelers, a gallery of images, testimonials, blogs, and more.
-![pic](https://github.com/user-attachments/assets/5664f57c-1599-43dd-997d-d7185e6ae8c9)
 
+![pic](https://github.com/user-attachments/assets/5664f57c-1599-43dd-997d-d7185e6ae8c9)
 
 ## Features
 
 - **Hero Section**: An introduction to Kedarnath with a background video and a call-to-action button.
+- ##*Note: If you encounter issues with the background video not displaying in the live preview, ensure that you have the video file in the correct directory and that the path is properly set in the HTML file.*
 - **About Section**: A brief description of Kedarnath, including its significance and a poetic description of the journey.
 - **Destination Section**: A showcase of nearby attractions, including Triyuginarayan Temple, Guptkashi, Kalimat Almora, Deoria Tal, Badrinath, Ukhimath, Tungnath, and Chandrashila Trek.
 - **Services Section**: Information on the various services offered to travelers, including adventure activities, food & drinks, affordable hotels, and 24/7 support.
